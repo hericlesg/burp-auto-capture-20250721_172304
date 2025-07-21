@@ -1,0 +1,15 @@
+{
+  "capture_timestamp": "20250721_172419", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/rmbqozvki.com_20250721_172419/request_001.txt", 
+      "url": "https://rmbqozvki.com:443/subscribeReward?pid=2603101111", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/rmbqozvki.com_20250721_172419/response_001.txt", 
+      "timestamp": 1753128253682
+    }
+  ], 
+  "host": "rmbqozvki.com", 
+  "total_requests": 1
+}
