@@ -1,0 +1,23 @@
+{
+  "capture_timestamp": "20250721_172428", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/ws-mt1.pusher.com_20250721_172428/request_001.txt", 
+      "url": "https://ws-mt1.pusher.com:443/app/6efb2c585e6c00c9b895?protocol=7&client=js&version=8.4.0&flash=false", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/ws-mt1.pusher.com_20250721_172428/response_001.txt", 
+      "timestamp": 1753128235059
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/ws-mt1.pusher.com_20250721_172428/request_002.txt", 
+      "url": "https://ws-mt1.pusher.com:443/app/6efb2c585e6c00c9b895?protocol=7&client=js&version=8.4.0&flash=false", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/ws-mt1.pusher.com_20250721_172428/response_002.txt", 
+      "timestamp": 1753128265206
+    }
+  ], 
+  "host": "ws-mt1.pusher.com", 
+  "total_requests": 2
+}
